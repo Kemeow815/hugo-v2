@@ -1,0 +1,40 @@
+
+[
+  
+  
+  {
+    "objectID": "1740554811",
+    "permalink": "/post/f_f/",
+    "title": "F_f",
+    
+    "content": " 1. 介绍 ",
+    
+    "date": "2025-02-26 15:26:51",
+    "updated": "2025-02-26 15:26:51"
+  }
+  
+  , 
+  {
+    "objectID": "1739384125",
+    "permalink": "/post/markdown-%E6%A0%87%E9%A2%98%E8%AF%AD%E6%B3%95/",
+    "title": "Markdown-标题语法 | 技术分享",
+    
+    "content": "原文位置: https://markdown.com.cn/basic-syntax/headings.html\nMarkdown 标题语法 要创建标题，请在单词或短语前面添加井号 (#) 。# 的数量代表了标题的级别。例如，添加三个 # 表示创建一个三级标题 (\u0026lt;h3\u0026gt;) (例如：### My Header)。\nMarkdown语法 HTML 预览效果 # Heading level 1 \u0026lt;h1\u0026gt;Heading level 1\u0026lt;/h1\u0026gt; Heading level 1 ## Heading level 2 \u0026lt;h2\u0026gt;Heading level 1\u0026lt;/h2\u0026gt; Heading level 2 ### Heading level 3 \u0026lt;h3\u0026gt;Heading level 1\u0026lt;/h3\u0026gt; Heading level 3 #### Heading level 4 \u0026lt;h4\u0026gt;Heading level 1\u0026lt;/h4\u0026gt; Heading level 4 ##### Heading level 5 \u0026lt;h5\u0026gt;Heading level 1\u0026lt;/h5\u0026gt; Heading level 5 ###### Heading level 6 \u0026lt;h6\u0026gt;Heading level 1\u0026lt;/h6\u0026gt; Heading level 6 可选语法 还可以在文本下方添加任意数量的 == 号来标识一级标题，或者 \u0026ndash; 号来标识二级标题。\nMarkdown语法 HTML 预览效果 Heading level 1\n=============== \u0026lt;h1\u0026gt;Heading level 1\u0026lt;/h1\u0026gt; Heading level 1 Heading level 2\n\u0026mdash;\u0026mdash;\u0026mdash;\u0026mdash;\u0026mdash; \u0026lt;h2\u0026gt;Heading level 1\u0026lt;/h2\u0026gt; Heading level 2 最佳实践 不同的 Markdown 应用程序处理 # 和标题之间的空格方式并不一致。为了兼容考虑，请用一个空格在 # 和标题之间进行分隔。\n✅ Do this ❌ Don\u0026rsquo;t do this # Here's a Heading #Here's a Heading ",
+    
+    "date": "2025-02-12 18:15:25",
+    "updated": "2025-02-12 18:15:25"
+  }
+  
+  , 
+  {
+    "objectID": "1739232000",
+    "permalink": "/post/markdown-%E9%80%9F%E8%A7%88%E8%A1%A8/",
+    "title": "Markdown 速查表",
+    
+    "content": "原文位置: https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88\nMarkdown 速查表提供了所有 Markdown 语法元素的基本解释。如果你想了解某些语法元素的更多信息，请参阅更详细的 基本语法 和 扩展语法.\n基本语法 这些是 John Gruber 的原始设计文档中列出的元素。所有 Markdown 应用程序都支持这些元素。\n元素 Markdown 语法 标题（Heading） # H1 一级标题 ## H2 二级标题 ### H3 三级标题 粗体（Bold） **bold text** 斜体（Italic） *italicized text* 引用块（Blockquote） \u0026gt; blockquote 有序列表（Ordered List） 1. First item 2. Second item 3. Third item 无序列表（Unordered List） - First item - Second item - Third item 代码（Code） `code` 分隔线（Horizontal Rule） — 链接（Link） [title](https://www.example.com) 图片（Image） ![alt text](image.jpg) 扩展语法 这些元素通过添加额外的功能扩展了基本语法。但是，并非所有 Markdown 应用程序都支持这些元素。\n元素 Markdown 语法 表格（Table） | Syntax | Description || ----------- | ----------- || Header | Title || Paragraph | Text | 代码块（Fenced Code Block） ```{\n\u0026quot;firstName\u0026quot;: \u0026quot;John\u0026quot;,\u0026quot;lastName\u0026quot;: \u0026quot;Smith\u0026quot;,\u0026quot;age\u0026quot;: 25}``` 脚注（Footnote） Here’s a sentence with a footnote. [^1][^1]: This is the footnote. 标题编号（Heading ID） ### My Great Heading {#custom-id} 定义列表（Definition List） term: definition 任务列表（Task List） - [x] Write the press release- [ ] Update the website- [ ] Contact the media ",
+    
+    "date": "2025-02-11 00:00:00",
+    "updated": "2025-02-11 00:00:00"
+  }
+  
+]
