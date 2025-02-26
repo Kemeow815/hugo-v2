@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-title = 'My New Hugo Site'
+baseURL = 'https://hugo-v2.kemeow.top/'
+title = 'kemiao blog'
 theme = 'hugo-theme-reimu'
 languageCode = 'zh-CN'
 defaultContentLanguage = 'zh-CN'
